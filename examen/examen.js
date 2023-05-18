@@ -44,7 +44,7 @@ const claseDW1 = {
 };
 
 
-console.log("- Mi nombre es: " + est3.nombre);
-console.log("- Mis notas son: " + est3.notas);
-console.log("- Mi nota total de los ejercicios es " + est3.notaejercicios)
+console.log("- Mi nombre es: " + claseDW1.est3.nombre);
+console.log("- Mis notas son: " + claseDW1.est3.notas);
+console.log("- Mi nota total de los ejercicios es " + claseDW1.est3.notaejercicios)
 
